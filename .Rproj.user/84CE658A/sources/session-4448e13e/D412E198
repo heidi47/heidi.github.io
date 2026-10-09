@@ -3,7 +3,7 @@
     "path": "C:/Users/heidi/OneDrive/Desktop/DataAnalysis/_quarto.yml",
     "project_path": "_quarto.yml",
     "type": "yaml",
-    "hash": "3117485691",
+    "hash": "2971205317",
     "contents": "",
     "dirty": false,
     "created": 1791556327294.0,
@@ -11,14 +11,16 @@
     "relative_order": 2,
     "properties": {
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "11,18",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1791556322,
+    "lastKnownWriteTime": 1791558666,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1791556322,
+    "last_content_update": 1791558666342,
     "read_only": false,
     "read_only_alternatives": []
 }
